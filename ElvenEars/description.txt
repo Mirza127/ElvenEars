@@ -1,0 +1,10 @@
+A simple mod which adds Elven Ears as a vanity slot item while also allowing for regular hairstyles.
+
+They can be crafted with a Fallen Star at a Workbench.
+
+A huge thanks to Direwolf420, without their help this never would have happened.
+
+If you need to contact me my discord is Mirza#0683.
+
+Idea, Sprites, and Coding by Mirza.
+Coding by Direwolf420.
